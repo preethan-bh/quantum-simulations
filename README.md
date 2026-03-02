@@ -1,6 +1,6 @@
 # Quantum Circuit Simulation using MATLAB
 
-This project simulates quantum circuits using MATLAB, including the creation of Bell states.
+This project simulates quantum circuits using MATLAB, including the creation of Bell states and simulation of conceptual Algorithms.
 
 ## Concepts implemented
 
